@@ -1,0 +1,27 @@
+.header {
+  padding: 2rem 4rem;
+  color: rgb(51, 71, 200);
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+span {
+  font-weight: lighter;
+  font-size: 0.6em;
+}
+
+.sunIcon {
+  height: 70px;
+}
+
+@media screen and (max-width: 900px) {
+  .header {
+    height: auto;
+    margin: 0;
+    padding: 1rem;
+  }
+}

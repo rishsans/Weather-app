@@ -1,0 +1,33 @@
+.footer {
+  font-size: 0.82em;
+  font-weight: light;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(228, 228, 228, 0.3);
+  backdrop-filter: blur(5px);
+  margin-top: auto;
+}
+
+.footerContainer {
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footerContainer p {
+  margin-bottom: 0.5rem;
+  font-weight: bolder;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.logoDev {
+  width: 2px;
+}
