@@ -10,10 +10,10 @@ https://github.com/rishsans/Weather-app/assets/98217912/43d4ec0f-e5c3-4522-85c3-
 - [Vite] (https://vitejs.dev/)
 
 ### About the project
-
+Designed an interactive application using ReactJS  for a dynamic weather updates application
 - URL: (https://drishti-weather-app.netlify.app/)
 - Github Repository: (https://github.com/rishsans/Weather-app)
-Designed an interactive application using ReactJS  for a dynamic weather updates application
+
 
 ### Requirements
 
